@@ -1,0 +1,65 @@
+- Chang Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Chang? 
+
+ A : I always liked playing Chang in both CvS2 and KOF, particularly in 97/98. I felt like his move-set and gameplay in CvS2 felt a little
+     incomplete so I decided to expand upon it while retaining his core CvS2 elements.
+
+
+ Q : What's his playstyle like?
+
+ A : Chang is a pressure/neutral heavy character that requires tight execution and working around his slowness to work.
+
+
+ Q : How do you play Chang?
+
+ A : Chang is pressure heavy. His blockstrings are very deadly and for the most part safe. cr.LP, cr.LP, cr.LK xx IC Ball Swing is his most safe
+     and reliable blockstring. He is left at +3 on block, and it allows for an extra cr.MP. Speaking of cr.MP, it's Chang's best poke. Along with
+     cr.MK, cr.MP is a very great poke, the problem is just the priority. It's a frame 3 move, which makes his blockstrings freeform considering
+     how plus his lights are. st.LP even links into cr.MP, granted it is a 2f but it's a simple link. You have a 2f window to squish in a cr.MP
+     from an IC Ball Swing that can leave you safe even though that is a gap. Now, his pressure does seem very OP, however his weakness to not
+     only his pressure but his entire game is his size. Chang is not only a big character, but he's also very slow, which means that once the
+     corner push takes him out of his blockstring, it's difficult for him to continue his turn and keep the pressure going. However, this leaves
+     him in firm control of neutral, and the opponent has to do something to escape another potential Chang blockstring rave. If the opponent
+     tries jumping, Chang has an anti-air in Ball Swing, if the opponent tries doing nothing, Chang can just use his slide command normal and
+     then cancel into IC Ball Swing for another turn. If the opponent tries to poke themselves, Chang has a high priority st.HP that stuffs
+     anything not named Sagat st.HP, the problem is that it whiffs on crouchers, which is where his cr.MP/cr.MK come in handy. Once his cr.MP
+     or cr.MK lands, he can cancel into an IC Ball Swing, and gets yet another chance to steal a turn. Chang's neutral is complex when it comes
+     to his pokes, however in the big picture, the goal of his neutral is to get up close and suffocate the opponent with blockstrings. However,
+     while this aspect was touched on earlier, it needs to be covered in more detail, and that's his movement. Chang's main weakness is his very
+     slow movement, which means that Chang sort of suffers from Shadow DIO syndrome, where all his pressure has gaps you can exploit. He will
+     struggle with quicker characters that can get out of pressure easy. While Chang has great defensive options himself, he unfortunately has
+     some trouble with characters that have phenomenal defense. Thing is, you need to work around this movement in order to make sure you can
+     get to the spots where Chang is the most optimal. There's no way to describe it, you just need to work with the fact that Chang is just a
+     fucking fatass. Once you get used to his movement, and once you get used to his neutral and blockstrings, Chang is a very oppressive and
+     nerve-racking character with suffocating offense and very good defensive pokes.
+
+
+
+  = BEGINNER COMBOS =
+
+ cr.LP, cr.LP xx HP.Tekkyuu Dai Kaiten
+
+ cr.LP, cr.LP, cr.LK xx Tekkyuu Dai Bokusatsu
+
+ st.LP, cr.MP xx HP.Tekkyuu Dai Kaiten
+
+ st.MP xx EX.Tekkyuu Dai Kaiten, st.MP xx HP.Tekkyuu Dai Kaiten
+
+ st.LP, cr.MP xx Tekkyuu Dai Bokusatsu
+
+
+  = CUSTOM COMBOS =
+
+ Install, repeat (st.MP xx st.MK), Tekkyuu Dai Assatsu
+
+
+ = CREDITS =
+
+  gal129 - SFF, Choi idle/walk/run coding
+
+  Dronk, Dawn de Era, Joey the Tricky, Troy99 - Feedback

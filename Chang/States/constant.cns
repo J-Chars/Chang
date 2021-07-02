@@ -1,0 +1,99 @@
+;-------------------------
+;-| CHANG by JtheSaltyy |-
+;-------------------------
+;   - CONSTANTS FILE -
+;-------------------------
+
+;================================
+
+[Data]
+life = 1085
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.95		
+yscale = 1		
+ground.back = 16		
+ground.front = 16		
+air.back = 15		
+air.front = 15	
+height = 65			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = 8, -60
+mid.pos = 0, -48		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.5675
+walk.back = -1.82575
+run.fwd  = 4.575, -4		
+run.back = -4.575, -5			
+jump.neu = 0, -9 
+jump.back = -2.2, -9 
+jump.fwd = 2.5, -9
+runjump.back = -4,-8
+runjump.fwd = 4,-8	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.48675		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ CHANG ]=
+
+victory1 = "Scooby dooby doo wop. Doo wop, ah doo doo. \nQuit singing Chang, you're awful at it."
+victory2 = "Speed doesn't do you good when a giant steel ball is right in front of you. \nDummy! You can't use speed to last forever!"
+victory3 = "Don't try to take me down, I'm simply too much for you. \nToo weak, too weak!"
+victory4 = "I have the strength of over 1000 linemen, and you think some stubby punches will hurt me? \nSo much strength! Yesssss!"
+victory5 = "Geez.. I don't have the energy for beating up losers anymore. \nLet's go rob a donut shop, hee hee hee!"
+victory6 = "Let me have my fun, I just got out of jail. \nLet's get outta here!"
+victory7 = "As long as you're not dead, I don't care about the law. \nNo corpse, no problem! Hee hee hee!"
+victory8 = "Flattened already? What a loser. \nSo weak.. Let's get outta here, I'm bored."
+victory9 = "I am very skilled at bashing losers! \nWe have no time for weaklings. Hee hee hee!"
+victory10 = "How nice of you to give my steel ball a big kiss. Ha ha! \nYou ran right into it! Hee hee hee!"
+
+;=[ SPECIAL QUOTES ]=
+
+; vs. Kim
+victory11 = "Look who needs some rehab now! \nYou're not as tough as you think! Hee hee hee!"
+
+; vs. Kyo
+victory12 = "I don't appreciate you goody-two-shoes losers. \nSo cliche!"
+
+; vs. Jhun Hoon
+victory13 = "How about I break your legs with my steel ball and see if you can still fight! \nYou only use your legs! Hee hee hee!"
+
+; vs. Terry
+victory14 = "King of South Town? What, is South Town a children's playground or something? \nGood one, Chang! Hee hee hee!"
+
+; vs. Geese
+victory15 = "Looks like you ain't Mr. Bigshot after all, loser. \nWe thought you were cool and strong!"
